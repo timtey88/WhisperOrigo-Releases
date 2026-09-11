@@ -1,7 +1,7 @@
 <h1 align="center">WhisperOrigo Releases</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/timtey88/WhisperOrigo/main/WhisperOrigo/Assets.xcassets/AppIcon.appiconset/icon-512.png" width="128" alt="WhisperOrigo logo">
+  <img src="assets/whisperorigo-icon.png" width="128" alt="WhisperOrigo logo">
 </p>
 
 <p align="center">
