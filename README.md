@@ -65,6 +65,8 @@ through GitHub Pages.
 - [GitHub Releases](https://github.com/timtey88/WhisperOrigo-Releases/releases) host
   downloadable ZIP artifacts, SHA-256 checksums, and release notes.
 - [appcast.xml](appcast.xml) contains the Sparkle update feed.
+- [Prepared 1.0.0 notes](<release-notes/1.0.0.md>) describe the planned first distribution.
+- [1.0.0 preparation record](<records/1.0.0.md>) tracks qualification and unresolved prerequisites.
 - `assets/` contains public app branding.
 - The source code remains in the private WhisperOrigo repository.
 

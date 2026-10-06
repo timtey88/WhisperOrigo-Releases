@@ -1,0 +1,3 @@
+# Local release qualification evidence; never upload logs as release assets
+local-evidence/
+.DS_Store
