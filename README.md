@@ -19,10 +19,12 @@
 ## Features
 
 - Dictate with a configurable shortcut in toggle or hold mode.
+- Choose Apple Speech or download Parakeet V2/V3 for local transcription with live previews.
+- Compare model languages, reference ratings, sizes, and capabilities in a searchable workspace.
 - Keep transcripts in the app, copy them, or paste into your active app.
 - Apply optional on-device cleanup, filler removal, and vocabulary replacements.
 - Customize audio input, recording sounds, and the transcript overlay.
-- Opt into local history with playback, favorites, retries, and retention controls.
+- Opt into local history with playback, favorites, model-specific retries, transcript versions, and retention controls.
 
 ## Installation
 
@@ -45,8 +47,8 @@ Speech and optional cleanup run on this Mac, without accounts, cloud transcripti
 analytics, or telemetry. History is off by default. Enabling it saves recordings
 and transcripts locally; turning it off keeps existing entries.
 
-Speech assets may need an initial download. Offline dictation requires the assets
-for your selected language to be installed. Optional cleanup depends on Apple
+Speech assets and Parakeet models may need an initial download. Offline dictation
+requires the selected model/language assets to be installed. Optional cleanup depends on Apple
 Intelligence readiness and language support; when unavailable, the app keeps the
 raw transcript.
 
@@ -65,8 +67,9 @@ through GitHub Pages.
 - [GitHub Releases](https://github.com/timtey88/WhisperOrigo-Releases/releases) host
   downloadable ZIP artifacts, SHA-256 checksums, and release notes.
 - [appcast.xml](appcast.xml) contains the Sparkle update feed.
-- [Prepared 1.0.0 notes](<release-notes/1.0.0.md>) describe the planned first distribution.
-- [1.0.0 preparation record](<records/1.0.0.md>) tracks qualification and unresolved prerequisites.
+- [1.1.0 notes](<release-notes/1.1.0.md>) describe Parakeet support and the comparison workspace.
+- [1.1.0 preparation record](<records/1.1.0.md>) tracks candidate evidence and qualification status.
+- [1.0.0 notes](<release-notes/1.0.0.md>) and its [preparation record](<records/1.0.0.md>) preserve the first-release history.
 - `assets/` contains public app branding.
 - The source code remains in the private WhisperOrigo repository.
 
