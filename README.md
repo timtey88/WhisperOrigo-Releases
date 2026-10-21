@@ -32,7 +32,7 @@ Requires an Apple silicon Mac running macOS 26.0 or later.
 
 1. Download the latest `WhisperOrigo-*.zip` from [Releases](https://github.com/timtey88/WhisperOrigo-Releases/releases/latest).
 2. Unzip it and move `WhisperOrigo.app` to `/Applications`.
-3. Launch WhisperOrigo and complete setup. Allow microphone access for recording
+3. Launch WhisperOrigo and complete setup. Allow microphone access for recording,
    Input Monitoring access for the global shortcut, and Accessibility access for automatic paste.
 4. Focus a text field, press **Right Option**, speak, then press it again to stop.
 
