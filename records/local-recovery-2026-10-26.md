@@ -16,6 +16,6 @@ Host: macOS 26.7.1/M5 Pro. Full suites, the complete light/dark/window-size matr
 
 ## Distribution and cleanup
 
-Installed locally on 26 October 2026 at `/Applications/WhisperOrigo.app`, retaining 1.1.2 (4) at the owner's request. This is a signed local build, not a newly notarized release. Its code differs from the published build 4; the public source tag, ZIP/checksum, GitHub release and update feed remain unchanged. These improvements have not been pushed or publicly distributed.
+Installed locally on 26 October 2026 at `/Applications/WhisperOrigo.app`, retaining 1.1.2 (4) at the owner's request. This is a signed local build, not a newly notarized release. Its code differs from the published build 4; the public source tag, ZIP/checksum, GitHub release and update feed remain unchanged. At this local-validation stage these improvements had not been pushed or publicly distributed. The later owner-approved publication is documented in the [replacement record](1.1.2-replacement.md).
 
 Temporary builds, sample audio, UI helper scripts and the rollback app copy were removed after validation. The normal Applications app and validation logs/record remain. Published release artifacts remain separately preserved under their original source/checksum provenance.
