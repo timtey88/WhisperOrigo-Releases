@@ -28,6 +28,8 @@
 
 ## Installation
 
+**Replacing an earlier 1.1.2 (4):** quit the app, download the current ZIP, and replace the Applications copy manually. The unchanged build number prevents automatic update detection. Keep your preferences and downloaded models. See the [replacement notes](release-notes/1.1.2.md).
+
 Requires an Apple silicon Mac running macOS 26.0 or later.
 
 1. Download the latest `WhisperOrigo-*.zip` from [Releases](https://github.com/timtey88/WhisperOrigo-Releases/releases/latest).
