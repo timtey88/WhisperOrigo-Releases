@@ -2,6 +2,15 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Mon, 26 Oct 2026 16:43:01 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/timtey88/WhisperOrigo-Releases/releases/download/v1.1.2/WhisperOrigo-1.1.2-4-macos.zip" length="5578678" type="application/octet-stream" sparkle:edSignature="FVM/lyO3QtNGbMdjghieLOfuYou5MMfvKfGfHbC6JccVGijWeFIvAFTEDyZ+2hjfEQwNRNXP3ILvLhuAp/KzAw==" />
+        </item>
+    <item>
             <title>1.1.1</title>
             <pubDate>Wed, 21 Oct 2026 15:14:37 +0800</pubDate>
             <sparkle:version>3</sparkle:version>
